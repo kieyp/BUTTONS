@@ -1,0 +1,33 @@
+.vidtitle{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+
+  font-size: 30 px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  line-height: 20px;
+  width: 300px;
+  margin-bottom: 5px;
+}
+.vidauthor{
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+
+  font-size: 30 px;
+  font-style: italic;
+  line-height: 20px;
+  width: 300px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+
+}
+
+.viddes{
+
+font-family: arial;
+font-family: 14px;
+width: 300px;
+line-height: 22px;
+margin-bottom: 0;
+}
