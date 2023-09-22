@@ -31,3 +31,25 @@ width: 300px;
 line-height: 22px;
 margin-bottom: 100px;
 }
+
+.apple-text {
+margin-bottom: 50px;
+font-size: 14px;
+background-color: rgb(227, 65, 14);
+color: white;
+text-align: center;
+padding-top: 20px;
+padding-right: 20x;
+padding-bottom: 20px;
+}
+
+
+.shop-link {
+
+  cursor: pointer;
+  margin-left: 12px;
+}
+.shop-link:hover
+{
+  text-decoration: underline;
+}
