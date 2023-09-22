@@ -1,0 +1,76 @@
+.sub{
+    background-color: rgba(200 ,0 ,0);
+border: none;
+    color: white;
+height: 36px;
+width: 105px;
+border-radius: 5px;
+margin-right: 10px;
+transition:opacity 1s;
+vertical-align: top;
+}
+
+
+
+.sub:hover{
+    opacity: 0.8
+}
+
+.sub:active
+{
+
+    opacity: 0.5;
+}
+
+
+
+.join{
+    background-color: white;
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1 px;
+    color:te;
+    border-color: rgb(41, 118, 211);
+
+    border-radius: 2px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background color 1s,color 1s;
+    padding:10px ;
+    vertical-align: top;
+    
+}
+
+.join:hover{
+
+    background-color: rgb(42, 118,211);
+    color: white;
+}
+
+.join:active{
+opacity: 0.7;
+
+}
+
+.book{
+    background-color: rgb(4, 149, 233);
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1 px;
+    border-color: rgb(41, 118, 211);
+    border-radius: 1px;
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 10PX;
+    vertical-align:top;
+.book:hover{
+
+
+    box-shadow:rgb(0,0, 0,0.15);}
+
+}
+
+
+.book:active{
+
+background-color:cadetblue;
