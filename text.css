@@ -25,8 +25,8 @@
 
 .viddes{
 
-font-family: arial;
-font-family: 14px;
+font-family: roboto;
+font-size:  14px;
 width: 300px;
 line-height: 22px;
 margin-bottom: 100px;
@@ -52,4 +52,9 @@ padding-bottom: 20px;
 .shop-link:hover
 {
   text-decoration: underline;
-}
+
+p{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  margin-top: 0;
+  margin-bottom: 0;
+  }
